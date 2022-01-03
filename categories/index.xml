@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Navendu Pottekkat</title>
+    <link>https://navendu.me/categories/</link>
+    <description>Recent content in Categories on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jan 2022 11:58:47 +0530</lastBuildDate><atom:link href="https://navendu.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Dose of Pottekkat</title>
+      <link>https://navendu.me/categories/daily-dose-of-pottekkat/</link>
+      <pubDate>Mon, 03 Jan 2022 11:58:47 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/daily-dose-of-pottekkat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured</title>
+      <link>https://navendu.me/categories/featured/</link>
+      <pubDate>Sat, 25 Dec 2021 11:15:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://navendu.me/categories/software-engineering/</link>
+      <pubDate>Sat, 25 Dec 2021 11:15:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://navendu.me/categories/open-source/</link>
+      <pubDate>Thu, 02 Dec 2021 12:49:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://navendu.me/categories/talks/</link>
+      <pubDate>Sun, 07 Nov 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/categories/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://navendu.me/categories/tutorials/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
